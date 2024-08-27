@@ -32,3 +32,13 @@ The following is only needed if you want to use `firebase/admin` (not part of th
 - You need to define the same `FIREBASE_ADMIN_SDK` environment variable in Vercel
 
 **Created by [⬡ Enesien Software](https://enesien.com)**
+
+# GIT review
+```
+git status -u  # list files in subdirectories
+```
+
+# Running Notes
+```
+npm start
+```
